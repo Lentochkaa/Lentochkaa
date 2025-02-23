@@ -6,6 +6,9 @@
 
 **Skills:**
 - Python
+- Pandas
+- Matplotlib
+- Seaborn
 - Scikit-learn
 - PyTorch
 - TensorFlow
